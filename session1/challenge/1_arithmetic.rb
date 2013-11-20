@@ -10,4 +10,9 @@
 
 def arithmetic1(n)
   # the code for this method goes in here
+  puts n
+  y = n * 3
+  puts y 
 end
+
+arithmetic1(10.5)
